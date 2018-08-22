@@ -9,3 +9,5 @@ We know, BL model is a powerful model to take personal information into account.
 I have tried this idea and use maximum return portfolio and mimimum risk portfolio as comparison. The results look good. The daily AR-GARCH corrected Black-Litterman portfolio tends to outperform other portfolios, with a higher Sharpe ratio at around 0.11308. 
 
 
+It's easy to use and see the results. Open "GrpAsgmData.mat" and " OpenHighLowPrice" (They are data) into your matlab and just run "fullcode.m".
+
