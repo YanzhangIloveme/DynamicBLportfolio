@@ -1,5 +1,5 @@
 # DynamicBLportfolio
-Hi all, if you are studying quantatitive finance or time series techniques, this asset may bring you a new idea about how to use models to build the Black-Litterman model.
+Hi all, if you are studying quantatitive finance or time series techniques, it may bring you a new idea about how to use models to build the Black-Litterman model.
 
 Here, Assume you have already known some basic knowledge about Black-Litterman (BL) portfolio, ARIMA model and Garch model.
 
